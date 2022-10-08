@@ -9,6 +9,9 @@
 ##
 
 :sparkles:Preliminary Judging Criteria:sparkles:
+
+⏰ 3 min pitch, 2 min Q&A ⏰
+
 1. Idea (pitch and story)
 2. Look and feel
 3. Does the app improve customer experience?
@@ -16,6 +19,9 @@
 ##
 
 :computer:Technical Judging Criteria:computer:
+
+⏰ 3 min demo, 3 min Q&A ⏰
+
 1. Technical complexity and/or how many technologies are used 
 2. Code quality
 3. GitHub usage
