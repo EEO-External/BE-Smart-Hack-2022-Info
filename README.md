@@ -22,3 +22,13 @@
 :trophy:Prizes:trophy:
 
 To be Announced
+
+
+:mechanical_arm:Technical Resources:mechanical_arm:
+🐍 React and Python Workshop September 29 🐍 
+
+https://blackenterprise1-my.sharepoint.com/personal/mulders_blackenterprise_com/_layouts/15/stream.aspx?id=%2Fpersonal%2Fmulders%5Fblackenterprise%5Fcom%2FDocuments%2FRecordings%2FBE%20Smart%20Hackathon%20%5F%20Student%20Workshop%2D20220929%5F110951%2DMeeting%20Recording%2Emp4&ga=1
+
+🛫 Flight Engine API 🛬
+
+https://github.com/AmericanAirlines/Flight-Engine#flight-engine
