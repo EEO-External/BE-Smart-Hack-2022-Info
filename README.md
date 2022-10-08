@@ -1,11 +1,26 @@
 # BE-Smart-Hack-2022-Info
 
 :rotating_light:Hackathon Challenge Statements:rotating_light:
-1. How might we drive a large volume of our non-AAdvantage® member customers to effortlessly enroll in the program during their customer journey without causing any friction in the operation?
-2. How might we ensure customers have the right seat for them assigned by the time boarding starts so gate agents don't have to play musical chairs assigning seats?
-3. How can we ensure customers show up to the airport ready to go straight to security with their boarding pass (if they don’t have a bag)? How do we ensure they know exactly what to do?
-4. How might we encourage customers to add bags online and use our Express Kiosks?
-5. How might we take the bag check process outside of the airport?
+
+💳 Loyalty 💳
+
+How might we drive a large volume of our non-AAdvantage® member customers to effortlessly enroll in the program during their customer journey without causing any friction in the operation?
+
+🛃 Ancillaries / Airports / Check-in 🛃
+
+How can we ensure customers show up to the airport ready to go straight to security with their boarding pass (if they don’t have a bag)? How do we ensure they know exactly what to do?
+
+🛅 Ancillaries / Airports / Check-in 🛅
+
+How might we encourage customers to add bags online and use our Express Kiosks?
+
+🛄 Ancillaries / Airports / Check-in 🛄
+
+How might we take the bag check process outside of the airport?
+
+📱 Digital Product/ New Product Development 📱
+
+How might we get a customer who is calling contact center to use self-service features , especially if they are directly calling Reservations ? How can we intelligently redirect them to Digital touch points such as chat, app, aa.com
 ##
 
 :sparkles:Preliminary Judging Criteria:sparkles:
