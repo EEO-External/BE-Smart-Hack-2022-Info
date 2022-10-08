@@ -20,7 +20,7 @@ How might we take the bag check process outside of the airport?
 
 📱 Digital Product/ New Product Development 📱
 
-How might we get a customer who is calling contact center to use self-service features , especially if they are directly calling Reservations ? How can we intelligently redirect them to Digital touch points such as chat, app, aa.com
+How might we get a customer who is calling contact center to use self-service features , especially if they are directly calling Reservations ? How can we intelligently redirect them to Digital touch points such as chat, app, aa.com?
 ##
 
 :sparkles:Preliminary Judging Criteria:sparkles:
